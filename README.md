@@ -10,5 +10,5 @@ Django Rest Framework (DRF) CRUD API's with MySQL Database
 
 TO RUN THIS PROJECT , IMPORT MySQL DATABASE FILE WHICH IS PRESENT IN THE DATABASE FOLDER 
 
-Admin login : email - admin
+Admin login : email - admin        
               password - admin
